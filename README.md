@@ -10,12 +10,12 @@ A Streamlit dashboard that allows users to explore NASA's Near-Earth Object (NEO
 ---
 
 ## Packages
-requests
-json
-time
-datetime, timedelta
-mysql connector
-pandas
+- requests
+- json
+- time
+- datetime, timedelta
+- mysql connector
+- pandas
 
 ## Features
 
